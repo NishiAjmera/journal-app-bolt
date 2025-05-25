@@ -1,0 +1,1 @@
+journala-app-bolt
